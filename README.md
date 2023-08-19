@@ -1,1 +1,1 @@
-# 30-days-interview-prperation
+# 30-Days-Interview-Prepration
